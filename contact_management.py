@@ -3,4 +3,4 @@ class Node:
         self.key = key
         self.data = data
         self.left = None
-        self.right = None        
+        self.right = None
